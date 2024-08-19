@@ -1,0 +1,876 @@
+[13:33:22] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.0
+[13:33:23] [ForkJoinPool-1-worker-11/WARN]: The mod "betterstats" contains invalid entries in its mod json:
+- Unsupported root entry "" at line 26 column 4
+- Unsupported root entry "" at line 26 column 92
+- Unsupported root entry "" at line 28 column 4
+- Unsupported root entry "" at line 28 column 24
+[13:33:23] [ForkJoinPool-1-worker-7/WARN]: Mod mr_dungeons uses the version 1.8.4b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '4b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[13:33:23] [ForkJoinPool-1-worker-15/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[13:33:23] [ForkJoinPool-1-worker-13/WARN]: Mod lootbeams uses the version 2.0..7+1.20.1 which isn't compatible with Loader's extended semantic version format (Missing version number component!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[13:33:23] [ForkJoinPool-1-worker-14/WARN]: Mod com_github_rtyley_animated-gif-lib-for-java uses the version animated-gif-lib-1.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'animated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[13:33:23] [ForkJoinPool-1-worker-13/WARN]: The mod "necronomicon" contains invalid entries in its mod json:
+- Unsupported root entry "credits" at line 10 column 14
+[13:33:23] [ForkJoinPool-1-worker-12/WARN]: The mod "tcdcommons" contains invalid entries in its mod json:
+- Unsupported root entry "" at line 27 column 4
+- Unsupported root entry "" at line 27 column 198
+- Unsupported root entry "" at line 29 column 4
+- Unsupported root entry "" at line 29 column 24
+[13:33:23] [main/WARN]: Warnings were found!
+ - Mod 'Exposure' (exposure) 1.7.5 recommends version 0.5.1-f or later of create, which is missing!
+	 - You should install version 0.5.1-f or later of create for the optimal experience.
+ - Mod 'Extended Drawers' (extended_drawers) 2.1.1+mc.1.20.1 recommends any version of patchouli, which is missing!
+	 - You should install any version of patchouli for the optimal experience.
+ - Mod 'Immersive Snow' (immersivesnow) 1.3.0 recommends any version of snowrealmagic, which is missing!
+	 - You should install any version of snowrealmagic for the optimal experience.
+ - Mod 'Spawn Animations' (spawnanimations) 1.9.4+mod recommends any version of modmenu-badges-lib, which is missing!
+	 - You should install any version of modmenu-badges-lib for the optimal experience.
+ - Mod 'Spawn Animations' (spawnanimations) 1.9.4+mod recommends any version of midnightlib, which is missing!
+	 - You should install any version of midnightlib for the optimal experience.
+[13:33:23] [main/INFO]: Loading 347 mods:
+	- additionz 1.3.2
+	- advanced_runtime_resource_pack 0.8.1
+	- adventurez 1.4.20
+	- agedaddition 1.0.6
+	- amarite 1.0.8
+	   |-- cardinal-components-base 5.2.2
+	   |-- cardinal-components-block 5.2.2
+	   |-- cardinal-components-entity 5.2.2
+	   \-- reach-entity-attributes 2.4.0
+	- another_furniture 1.20.1-3.0.1
+	- antique-atlas 2.9.13+1.20
+	   \-- surveyor 0.6.21+1.20
+	        \-- folk_sisby_kaleido-config 0.3.1+1.3.1
+	- appleskin 2.5.1+mc1.20
+	- archers 1.2.5+1.20.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- architectury 9.2.14
+	- argonauts 1.0.10
+	   \-- placeholder-api 2.1.1+1.20
+	- asynclocator 1.3.0
+	- athena 3.1.2
+	- autotag-convention 2.0.2+1.20
+	   \-- autotag 2.0.2+1.20
+	- azurelibarmor 2.0.6
+	- backslot 1.2.15
+	   \-- amecsapi 1.5.0+mc1.20-pre1
+	- backslotaddon 1.1.1
+	- badoptimizations 2.1.4
+	- bakery 1.1.15
+	- balm-fabric 7.3.6
+	   \-- kuma_api 20.1.8
+	- bbb 1.20.1-fabric-1.0.2
+	- bclib 3.0.14
+	   \-- wunderlib 1.1.5
+	- betterarcheology 1.1.9-1.20.1
+	- bettercombat 1.8.5+1.20.1
+	- betterdeserttemples 1.20-Fabric-3.0.3
+	   \-- org_reflections_reflections 0.10.2
+	- betterend 4.0.11
+	- betterendisland 1.20-Fabric-2.0.6
+	- betterfortresses 1.20-Fabric-2.0.6
+	- betterjungletemples 1.20-Fabric-2.0.5
+	- betternether 9.0.10
+	- betteroceanmonuments 1.20-Fabric-3.0.4
+	- betterstats 3.12.4+fabric-1.20.1
+	- birds-boids 1.1.0
+	- boids 1.2.2
+	   \-- blue_endless_jankson 1.2.3
+	- borderlessmining 1.1.8+1.20.1
+	- brewery 1.1.9
+	- cadmus 1.0.8
+	   \-- common-protection-api 1.0.0
+	- candlelight 1.2.13
+	- chalk 2.2.4
+	   |-- com_github_mclegoman_releasetypeutils 2.1.0
+	   \-- fabric-simplelibs 2.0.0
+	- chalk-colorful-addon 2.1.1+1.19.3
+	- charmonium 6.0.7
+	   |-- charmony 6.12.0
+	   |-- charmony_api 6.7.0
+	   \-- com_moandjiezana_toml_toml4j 0.7.2
+	- chipped 3.0.6
+	- cloth-config 11.1.118
+	   \-- cloth-basic-math 0.6.1
+	- combatroll 1.3.2+1.20.1
+	- connectiblechains 2.2.1+1.20.1
+	- couplings 1.9.5+1.20
+	- crawl 0.12.0
+	   \-- mm 2.3
+	- creeperoverhaul 3.0.2
+	- crop_growth_modifier 1.20.1-1.1.1
+	- defaultoptions 18.0.1
+	- dehydration 1.3.6
+	- deuf_refabricated 1.1.0
+	- doapi 1.2.15
+	   \-- terraform-wood-api-v1 7.0.1
+	- dragonsteel 0.0.2-1.20.1
+	- dungeonnowloading 1.5
+	- dungeonz 1.0.6
+	- earlystage 1.1.1
+	- elemental_metals 0.0.3-1.20.1
+	- emi 1.1.10+1.20.1+fabric
+	- emi_enchanting 0.1.0+1.20.1
+	- emi_letsdo_compat 1.2
+	- emi_loot 0.6.6+1.20.1
+	- emi_ores 0.4+1.20.1
+	- emiffect 1.1.2+mc1.20.1
+	- emitrades 1.2.1+mc1.20.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- endermanoverhaul 1.0.4
+	- endrem 5.2.4
+	- entity_model_features 2.1.3
+	- entity_texture_features 6.1.3
+	   \-- org_apache_httpcomponents_httpmime 4.5.10
+	- entityculling 1.6.6
+	- environmentz 2.0.8
+	   \-- satin 1.13.0
+	- exposure 1.7.5
+	- extended_drawers 2.1.1+mc.1.20.1
+	   |-- config_toolkit 1.0.0
+	   |    |-- io_determann_shadow-api-17 0.1.1
+	   |    \-- net_fabricmc_javapoet 0.1.0
+	   |-- graphlib 1.4.0+1.20
+	   |    |-- kmodlib-overlay 0.2.12+1.20
+	   |    \-- libnetworkstack 0.10.0
+	   \-- noindium 1.1.0+1.20
+	- extendeddrawersaddon 1.0.2
+	- fabric-api 0.92.2+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabricloader 0.16.0
+	   \-- mixinextras 0.4.0
+	- fallenwizardsmod 0.1.4-1.20.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- fancymenu 3.2.3
+	   |-- com_github_keksuccino_japng 0.5.3
+	   \-- com_github_rtyley_animated-gif-lib-for-java animated-gif-lib-1.7
+	- fbp 20.1.0.2-beta
+	- ferritecore 6.0.1
+	- fishingreal 1.20.1-1.7.2
+	- fleshz 1.5.1
+	- forgeconfigapiport 8.0.0
+	- formations 1.0.2
+	- formationsnether 1.0.5
+	- formationsoverworld 1.0.4
+	- fpapmod 2.2.0-1.20.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- gardens_of_the_dead 4.0.1
+	- gazebo 1.1.1+1.20.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- geckoanimfix 1.0.0
+	- geckolib 4.4.7
+	   \-- com_eliotlash_mclib_mclib 20
+	- grassoverhaul 23.10.11
+	- hearths 1.0.1
+	- herbalbrews 1.0.8.1
+	- herdspanic 1.1.0
+	- hopobettermineshaft 1.1.8
+	- hopobetterunderwaterruins 1.1.4
+	- immediatelyfast 1.2.18+1.20.4
+	   \-- net_lenni0451_reflect 1.3.4
+	- immersive_aircraft 1.0.1+1.20.1
+	   \-- org_mariuszgromada_math_mathparser_org-mxparser 5.2.1
+	- immersive_armors 1.6.1+1.20.1
+	- immersivesnow 1.3.0
+	- immersiveui 0.1.1
+	- indium 1.0.34+mc1.20.1
+	- inmis 2.7.2-1.20.1
+	   \-- omega-config 1.2.3-1.18.1
+	- inmisaddon 1.0.4
+	- interactic 0.2.0+1.20
+	- iris 1.7.2+mc1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- io_github_douira_glsl-transformer 2.0.1
+	   |-- org_anarres_jcpp 1.4.14
+	   \-- org_antlr_antlr4-runtime 4.13.1
+	- java 17
+	- jewelry 1.3.6+1.20.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- jobsaddon 1.1.6
+	- jumpoverfences 1.3.1
+	- kiwi 11.8.19+fabric
+	- konkrete 1.8.1
+	- l_g_c 0.7
+	- lavender 0.1.9+1.20
+	   |-- lavender-md 0.1.1+1.20
+	   \-- lavender-md-owo-ui 0.1.1+1.20
+	- leahs-immersive-thunder 1.20.1+1.2.2
+	- letmedespawn 1.2.1
+	- levelz 1.4.13
+	- libz 1.0.3
+	- lithium 0.11.2
+	- lmft 1.0.2+1.20
+	- loadmyresources 1.0.4
+	- logbegone 1.0.8
+	- lootbeams 2.0..7+1.20.1
+	   \-- microconfig 2.2.1
+	- lootr 0.7.33.81
+	- magistuarmory 9.8
+	- mcrmod 0.0.1-1.20.1
+	- meadow 1.3.19
+	   \-- mixinsquared 0.1.2-beta.5
+	- medieval_buildings 1.0.1
+	- medievalweapons 1.4.8
+	- melody 1.0.3
+	- memoryleakfix 1.1.5
+	- mes 1.3.1-1.20-fabric
+	- minecraft 1.20.1
+	- mns 1.0.1-1.20-fabric
+	- modelfix 1.15
+	- modernfix 5.19.0+mc1.20.1
+	- modmenu 7.2.2
+	- moonlight 1.20-2.12.10
+	- more_spell_attributes 0.0.5-1.20.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- moreculling 1.20.4-0.24.0
+	   \-- conditional-mixin 0.3.2
+	- morerunes 0.0.1-1.20.1
+	- morewizardsmod 0.1.6-1.20.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- mr_dungeons 1.8.4b
+	- mr_dungeons_andtaverns 3.0.3.f
+	- mr_dungeons_andtavernsancientcityoverhaul 1
+	- mr_dungeons_andtavernspillageroutpostrework 1.1
+	- mr_dungeons_andtavernsstrongholdrework 1
+	- mr_ships 3.0.3
+	- mr_true_ending 1-v1.1.0c
+	- mr_villager_transportation 1.3.1
+	- mru 0.4.4+1.20.1
+	   \-- yet_another_config_lib_v3 3.4.2+1.20.1-fabric
+	        |-- com_twelvemonkeys_common_common-image 3.10.0
+	        |-- com_twelvemonkeys_common_common-io 3.10.0
+	        |-- com_twelvemonkeys_common_common-lang 3.10.0
+	        |-- com_twelvemonkeys_imageio_imageio-core 3.10.0
+	        |-- com_twelvemonkeys_imageio_imageio-metadata 3.10.0
+	        |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0
+	        \-- org_quiltmc_parsers_gson 0.2.1
+	- nameplate 1.1.4
+	- naturalist 4.0.3
+	- natures_spirit 1.6.0-1.20.1
+	- necronomicon 1.4.2
+	- neruina 2.1.1
+	   |-- com_fasterxml_jackson_core_jackson-annotations 2.17.0
+	   |-- com_fasterxml_jackson_core_jackson-core 2.17.0
+	   |-- com_fasterxml_jackson_core_jackson-databind 2.17.0
+	   |-- org_apache_maven_maven-artifact 3.8.1
+	   \-- org_kohsuke_github-api 1.318
+	- nethervinery 1.2.14
+	- niftycarts 3.0.2+1.20.1
+	- noisium 2.0.3+mc1.20-1.20.1
+	- nutritionz 1.0.9
+	- overflowingbars 8.0.0
+	- owo 0.11.2+1.20
+	- paladins 1.3.1+1.20.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- partyaddon 1.0.4
+	- passablefoliage 1.20.1-fabric-8.2.1
+	- paxi 1.20-Fabric-4.0
+	- phantom 20.1.5
+	- player-animator 1.0.2-rc1+1.20
+	- pockets 1.2.0
+	- polymorph 0.49.5+1.20.1
+	   |-- cardinal-components-item 5.2.1
+	   \-- spectrelib 0.13.15+1.20.1
+	- profundis 1.6.2
+	- prometheus 1.2.5
+	- puzzleslib 8.1.21
+	   \-- puzzlesaccessapi 8.0.7
+	- ranged_weapon_api 1.1.3+1.20.1
+	- reciperemover 1.0.8
+	- resourcefulconfig 2.1.2
+	- resourcefullib 2.1.28
+	   |-- com_teamresourceful_bytecodecs 1.0.2
+	   \-- com_teamresourceful_yabn 1.0.3
+	- revive 1.0.7
+	- rogues 1.1.0+1.20.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- rpgdifficulty 1.3.13
+	- rsls 1.1.4
+	- runes 0.9.13+1.20.1
+	- scholar 1.0.0
+	- seamless_loading_screen 2.0.3+1.20.1
+	- seasonhud 1.9.8
+	- seasons 2.3+1.20
+	- shield_api 1.0.1+1.20.1
+	- shut_up_gl_error 1.0.0
+	- simplemod 1.20.1
+	- smallships 2.0.0-b1.4
+	- smarterfarmers 1.20-1.8.2
+	- smitherz 1.0.4
+	- smoothscrollingrefurbished 1.1.2
+	- sodium 0.5.11+mc1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   \-- fabric-resource-loader-v0 0.11.10+1802ada577
+	- sparsestructures 2.2.0
+	- spawnanimations 1.9.4+mod
+	- spell_engine 0.15.9+1.20.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- spell_power 0.11.1+1.20.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- spider_caves 20.1.0
+	- spoiledz 1.0.10
+	   \-- capsaicin 1.3.3+mc1.20.1
+	- stoneworks 8.0.0
+	- structure_pool_api 1.0+1.20.1
+	- superbsteeds 1.20-4
+	   |-- cardinal-components-base 5.2.2
+	   \-- cardinal-components-entity 5.2.2
+	- sushi_bar 0.2.1+1.20
+	   \-- com_moulberry_mixinconstraints 1.0.1
+	- tawct 1.4.8+1.20-1.20.1
+	- tcdcommons 3.12.2+fabric-1.20.1
+	- terrablender 3.0.1.7
+	   |-- com_electronwill_night-config_core 3.6.7
+	   \-- com_electronwill_night-config_toml 3.6.7
+	- tiered 1.3.3
+	   \-- reach-entity-attributes 2.4.0
+	- tlc 1.0.1
+	- tooltipfix 1.1.1-1.20
+	- translucencyfix 2.2.0
+	- travelerz 1.0.1
+	- treechop 0.19.0
+	- trinkets 3.7.2
+	- u_desert 1.3.1
+	- underground_jungle 20.1.2
+	- villagerfix 1.0.4
+	- villagesandpillages 1.0.0
+	- vinery 1.4.27
+	- voidz 1.0.11
+	- welcomescreen 1.0.1
+	- wizards 1.3.0+1.20.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- yungsapi 1.20-Fabric-4.0.5
+	   \-- org_javassist_javassist 3.29.2-GA
+[13:33:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/lelip/AppData/Roaming/com.modrinth.theseus/meta/libraries/net/fabricmc/sponge-mixin/0.15.0+mixin.0.8.7/sponge-mixin-0.15.0+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[13:33:42] [main/INFO]: Compatibility level set to JAVA_17
+[13:33:43] [main/INFO]: Loading config from C:\Users\lelip\AppData\Roaming\com.modrinth.theseus\profiles\custom smp Aged based\config\badoptimizations.txt
+[13:33:43] [main/INFO]: Config version: 3
+[13:33:43] [main/INFO]: BadOptimizations config dump:
+[13:33:43] [main/INFO]: enable_toast_optimizations: true
+[13:33:43] [main/INFO]: ignore_mod_incompatibilities: false
+[13:33:43] [main/INFO]: lightmap_time_change_needed_for_update: 80
+[13:33:43] [main/INFO]: enable_lightmap_caching: true
+[13:33:43] [main/INFO]: enable_particle_manager_optimization: true
+[13:33:43] [main/INFO]: enable_entity_renderer_caching: true
+[13:33:43] [main/INFO]: log_config: true
+[13:33:43] [main/INFO]: enable_remove_redundant_fov_calculations: true
+[13:33:43] [main/INFO]: config_version: 3
+[13:33:43] [main/INFO]: enable_sky_angle_caching_in_worldrenderer: true
+[13:33:43] [main/INFO]: enable_block_entity_renderer_caching: true
+[13:33:43] [main/INFO]: skycolor_time_change_needed_for_update: 3
+[13:33:43] [main/INFO]: enable_entity_flag_caching: true
+[13:33:43] [main/INFO]: enable_debug_renderer_disable_if_not_needed: true
+[13:33:43] [main/INFO]: enable_sky_color_caching: true
+[13:33:43] [main/INFO]: enable_remove_tutorial_if_not_demo: true
+[13:33:43] [main/INFO]: show_f3_text: true
+[13:33:43] [main/WARN]: Reference map 'charmonium-fabric-1.20.1-refmap.json' for charmonium.mixins.json could not be read. If this is a development environment you can ignore this message
+[13:33:43] [main/WARN]: Reference map 'configtoolkit-refmap.json' for configtoolkit.mixins.json could not be read. If this is a development environment you can ignore this message
+[13:33:43] [main/WARN]: Reference map 'emi-letsdo-compat-common-refmap.json' for emi_letsdo_compat-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[13:33:44] [main/WARN]: Reference map 'fbp.refmap.json' for fbp.mixins.json could not be read. If this is a development environment you can ignore this message
+[13:33:44] [main/WARN]: Reference map 'formationsnether.mixins.refmap.json' for formationsnether.mixins.json could not be read. If this is a development environment you can ignore this message
+[13:33:44] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
+[13:33:44] [main/WARN]: Reference map 'gazebo-refmap.json' for gazebo.mixins.json could not be read. If this is a development environment you can ignore this message
+[13:33:44] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 1 override(s) found
+[13:33:44] [main/WARN]: Reference map 'lmft-fabric-refmap.json' for lmft.mixins.json could not be read. If this is a development environment you can ignore this message
+[13:33:44] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[13:33:45] [main/INFO]: Loaded configuration file for ModernFix 5.19.0+mc1.20.1: 60 options available, 0 override(s) found
+[13:33:45] [main/INFO]: Applying Nashorn fix
+[13:33:45] [main/WARN]: [Satin] Iris is present, custom block renders will not work
+[13:33:45] [main/WARN]: Reference map 'seamless-loading-screen-fabric-refmap.json' for seamless_loading_screen-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[13:33:45] [main/WARN]: Reference map 'smarterfarmers-fabric-refmap.json' for smarterfarmers.mixins.json could not be read. If this is a development environment you can ignore this message
+[13:33:45] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 4 override(s) found
+[13:33:46] [main/WARN]: Error loading class: net/coderbot/iris/uniforms/IdMapUniforms$HeldItemSupplier (java.lang.ClassNotFoundException: net/coderbot/iris/uniforms/IdMapUniforms$HeldItemSupplier)
+[13:33:46] [main/WARN]: @Mixin target net/coderbot/iris/uniforms/IdMapUniforms$HeldItemSupplier was not found backslotaddon.mixins.json:compat.IdMapUniformsMixin from mod backslotaddon
+[13:33:47] [main/WARN]: Error loading class: mezz/jei/library/load/PluginCaller (java.lang.ClassNotFoundException: mezz/jei/library/load/PluginCaller)
+[13:33:47] [main/WARN]: Error loading class: net/raphimc/immediatelyfast/feature/core/ImmediateAdapter (java.lang.ClassNotFoundException: net/raphimc/immediatelyfast/feature/core/ImmediateAdapter)
+[13:33:47] [main/WARN]: Error loading class: net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource (java.lang.ClassNotFoundException: net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource)
+[13:33:47] [main/WARN]: Error loading class: net/coderbot/iris/layer/InnerWrappedRenderType (java.lang.ClassNotFoundException: net/coderbot/iris/layer/InnerWrappedRenderType)
+[13:33:47] [main/WARN]: Error loading class: net/coderbot/iris/layer/OuterWrappedRenderType (java.lang.ClassNotFoundException: net/coderbot/iris/layer/OuterWrappedRenderType)
+[13:33:47] [main/WARN]: Error loading class: dev/tr7zw/skinlayers/render/CustomizableModelPart (java.lang.ClassNotFoundException: dev/tr7zw/skinlayers/render/CustomizableModelPart)
+[13:33:48] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[13:33:48] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[13:33:49] [main/WARN]: Force-disabling mixin 'features.gui.screen.LevelLoadingScreenMixin' as rule 'mixin.features.gui.screen' (added by mods [seamless_loading_screen]) disables it and children
+[13:33:49] [main/WARN]: Force-disabling mixin 'features.render.entity.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[13:33:49] [main/WARN]: Force-disabling mixin 'features.render.entity.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[13:33:49] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[13:33:49] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[13:33:49] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [iris]) disables it and children
+[13:33:49] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[13:33:49] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[13:33:49] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[13:33:49] [main/WARN]: Error loading class: satisfyu/vinery/entity/blockentities/ApplePressBlockEntity (java.lang.ClassNotFoundException: satisfyu/vinery/entity/blockentities/ApplePressBlockEntity)
+[13:33:49] [main/WARN]: @Mixin target satisfyu.vinery.entity.blockentities.ApplePressBlockEntity was not found spoiledz.mixins.json:compat.ApplePressBlockEntityMixin from mod spoiledz
+[13:33:49] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[13:33:49] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [targetEntityLeak, biomeTemperatureLeak, hugeScreenshotLeak]
+[13:33:49] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[13:33:49] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[13:33:49] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[13:33:50] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[13:33:50] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[13:33:50] [main/INFO]: I used the json to destroy the json
+[13:33:50] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.0).
+[13:33:50] [main/INFO]: Searching for graphics cards...
+[13:33:51] [main/INFO]: Found graphics adapter: AdapterInfo{vendor=INTEL, description='Intel(R) Iris(R) Xe Graphics', adapterType=0x0000232B, openglIcdFilePath='C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_ffc293fe8bdb391a\igxelpicd64.dll', openglIcdVersion=31.0.101.3222}
+[13:33:54] [main/WARN]: @ModifyConstant conflict. Skipping mixins.reach-entity-attributes.json:PlayerEntityMixin from mod reach-entity-attributes->@ModifyConstant::getActualAttackRange(D)D with priority 1000, already redirected by medievalweapons.mixins.json:PlayerEntityMixin from mod medievalweapons->@ModifyConstant::getActualAttackRange(D)D with priority 1000
+[13:33:55] [main/WARN]: Method overwrite conflict for compatSync in environmentz.mixins.json:ServerPlayerEntityMixin from mod environmentz, previously written by net.dehydration.mixin.ServerPlayerEntityMixin. Skipping method.
+[13:33:56] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[13:33:56] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[13:33:56] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[13:33:58] [main/WARN]: Method overwrite conflict for method_7851 in pockets.mixins.json:ArmorItemMixin from mod pockets, previously written by net.environmentz.mixin.ArmorItemMixin. Skipping method.
+[13:33:58] [main/WARN]: Method overwrite conflict for method_32346 in smitherz.mixins.json:ArmorItemMixin from mod smitherz, previously written by io.github.apace100.pockets.mixin.ArmorItemMixin. Skipping method.
+[13:33:58] [main/WARN]: Method overwrite conflict for method_7851 in smitherz.mixins.json:ArmorItemMixin from mod smitherz, previously written by net.environmentz.mixin.ArmorItemMixin. Skipping method.
+[13:34:02] [main/WARN]: @ModifyConstant conflict. Skipping yungsapi_fabric.mixins.json:IncreaseStructureWeightLimitMixinFabric from mod yungsapi->@ModifyConstant::yungsapi_increaseWeightLimitProd(I)I with priority 1000, already redirected by dungeonnowloading.fabric.mixins.json:fabric.structures.StructurePoolMixin from mod dungeonnowloading->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000
+[13:34:02] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[13:34:02] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[13:34:02] [main/INFO]: Vanilla bootstrap took 9127 milliseconds
+[13:34:02] [main/INFO]: [bclib] Added Config betternether.main to auto sync (file hash)
+[13:34:02] [main/INFO]: [bclib] Added Config betternether.generator to auto sync (file hash)
+[13:34:02] [main/INFO]: [bclib] Added Config betternether.blocks to auto sync (file hash)
+[13:34:02] [main/INFO]: [bclib] Added Config betternether.items to auto sync (file hash)
+[13:34:02] [main/INFO]: [bclib] Added Config betternether.biomes to auto sync (file hash)
+[13:34:02] [main/INFO]: [bclib] Added Config betternether.mobs to auto sync (file hash)
+[13:34:02] [main/INFO]: [bclib] Added Config betternether.recipes to auto sync (file hash)
+[13:34:03] [main/WARN]: [bclib] Recipe betternether:bone_block_bone_button only takes in a single item and should be shapeless
+[13:34:04] [Render thread/INFO]: [LOAD MY RESOURCES] PackHandler initialized!
+[13:34:04] [Render thread/INFO]: [LOAD MY RESOURCES] Pack registered!
+[13:34:04] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:34:05] [Render thread/INFO]: Setting user: lipoutou34
+[13:34:05] [Render thread/INFO]: Bypassed Mojang DFU
+[13:34:06] [Render thread/INFO]: Async Locator -> Config file found
+[13:34:06] [Render thread/INFO]: Async Locator -> Configs:
+Locator Threads: 1
+Remove Offer: false
+Dolphin Treasure Enabled: true
+Eye Of Ender Enabled: true
+Exploration Map Enabled: true
+Locate Command Enabled: true
+Villager Trade Enabled: true
+[13:34:07] [Render thread/INFO]: [bclib] Added Config bclib.generator to auto sync (file hash)
+[13:34:07] [Render thread/INFO]: [bclib] Added Config bclib.main to auto sync (content diff)
+[13:34:07] [Render thread/INFO]: [bclib] Added Config bclib.biomes to auto sync (file hash)
+[13:34:07] [Render thread/INFO]: Better Archeology says Hello
+[13:34:07] [Render thread/INFO]: [STDOUT]: All 5 have been set properly
+[13:34:07] [Render thread/INFO]: Registering Items from betterarcheology
+[13:34:07] [Render thread/INFO]: Registering Blocks from betterarcheology
+[13:34:07] [Render thread/INFO]: ModEntityTypes of betterarcheology registered.
+[13:34:07] [Render thread/INFO]: Registering Enchantments for betterarcheology
+[13:34:07] [Render thread/INFO]: Reflections took 93 ms to scan 1 urls, producing 1 keys and 2 values
+[13:34:07] [Render thread/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 2 values
+[13:34:08] [Render thread/INFO]: [bclib] Added Config betterend.entities to auto sync (file hash)
+[13:34:08] [Render thread/INFO]: [bclib] Added Config betterend.blocks to auto sync (file hash)
+[13:34:08] [Render thread/INFO]: [bclib] Added Config betterend.items to auto sync (file hash)
+[13:34:08] [Render thread/INFO]: [bclib] Added Config betterend.biomes to auto sync (file hash)
+[13:34:08] [Render thread/INFO]: [bclib] Added Config betterend.recipes to auto sync (file hash)
+[13:34:08] [Render thread/INFO]: [bclib] Added Config betterend.enchantments to auto sync (file hash)
+[13:34:09] [Render thread/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[13:34:09] [Render thread/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[13:34:09] [Render thread/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[13:34:09] [Render thread/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[13:34:09] [Render thread/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[13:34:09] [Render thread/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[13:34:09] [Render thread/INFO]: [betternether] =^..^=    BetterNether for 1.20    =^..^=
+[13:34:09] [Render thread/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[13:34:09] [Render thread/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[13:34:09] [Render thread/INFO]: Registering C2S receiver with id brewery:alcohol_sync_request
+[13:34:09] [Render thread/INFO]: Registering C2S receiver with id brewery:drink_alcohol
+[13:34:10] [Render thread/INFO]: Registering C2S receiver with id candlelight:typewriter_sync
+[13:34:10] [Render thread/INFO]: Registering C2S receiver with id candlelight:sign_note
+[13:34:10] [Render thread/INFO]: [Chalk 2.2.1-release.1] Initializing Chalk...
+[13:34:10] [Render thread/INFO]: [Chalk 2.2.1-release.1] Registering blocks and items...
+[13:34:10] [Render thread/INFO]: [Chalk 2.2.1-release.1] Finished initializing Chalk!
+[13:34:10] [Render thread/INFO]: [CommonLoader] 7 classes to load for class svenhjol.charmony.common.CommonLoader
+[13:34:10] [Render thread/INFO]: [CommonLoader] Enabled Advancements
+[13:34:10] [Render thread/INFO]: [CommonLoader] Enabled ColoredGlints
+[13:34:10] [Render thread/INFO]: [CommonLoader] Enabled CustomWood
+[13:34:10] [Render thread/INFO]: [CommonLoader] Enabled Diagnostics
+[13:34:10] [Render thread/INFO]: [CommonLoader] Enabled Recipes
+[13:34:10] [Render thread/INFO]: [CommonLoader] Enabled VariantPistons
+[13:34:10] [Render thread/INFO]: [CommonLoader] Enabled VariantWood
+[13:34:10] [Render thread/INFO]: [CommonLoader] Running Diagnostics
+[13:34:10] [Render thread/INFO]: [CommonLoader] Running VariantWood
+[13:34:10] [Render thread/INFO]: [CommonLoader] Running Advancements
+[13:34:10] [Render thread/INFO]: [CommonLoader] Running ColoredGlints
+[13:34:10] [Render thread/INFO]: [CommonLoader] Running CustomWood
+[13:34:10] [Render thread/INFO]: [CommonLoader] Running Recipes
+[13:34:10] [Render thread/INFO]: [CommonLoader] Running VariantPistons
+[13:34:10] [Render thread/INFO]: Initialized entity types.
+[13:34:10] [Render thread/WARN]: No features are enabled, this could be a bug!
+[13:34:10] [Render thread/INFO]: Loaded DEUF Refabricated Config
+[13:34:11] [Render thread/INFO]: Hello Fabric world!
+[13:34:12] [Render thread/INFO]: [FANCYMENU] Loading v3.2.3 in client-side mode on FABRIC!
+[13:34:12] [Render thread/INFO]: Registering C2S receiver with id gardens_of_the_dead:networking_channel/bc2f24ca5d503301bb3abf7b928d614e
+[13:34:12] [Render thread/INFO]: Registering S2C receiver with id gardens_of_the_dead:networking_channel/bc2f24ca5d503301bb3abf7b928d614e
+[13:34:12] [Render thread/INFO]: Gecko Anim Fix Initialized
+[13:34:12] [Render thread/INFO]: Initializing GraphLib...
+[13:34:12] [Render thread/INFO]: GraphLib Initialized.
+[13:34:12] [Render thread/INFO]: Processing 7 KiwiModule annotations
+[13:34:13] [Render thread/WARN]: @ModifyConstant conflict. Skipping mixins.reach-entity-attributes.json:client.GameRendererMixin from mod reach-entity-attributes->@ModifyConstant::getActualAttackRange0(D)D with priority 1000, already redirected by medievalweapons.mixins.json:client.GameRendererMixin from mod medievalweapons->@ModifyConstant::getActualAttackRange0(D)D with priority 1000
+[13:34:13] [Render thread/WARN]: @ModifyConstant conflict. Skipping mixins.reach-entity-attributes.json:client.GameRendererMixin from mod reach-entity-attributes->@ModifyConstant::getActualAttackRange1(D)D with priority 1000, already redirected by medievalweapons.mixins.json:client.GameRendererMixin from mod medievalweapons->@ModifyConstant::getActualAttackRange1(D)D with priority 1000
+[13:34:13] [Render thread/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on seamless_loading_screen-common.mixins.json:GameRendererMixin from mod seamless_loading_screen::handler$hjb000$seamless_loading_screen$attemptToTakeScreenshot exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[13:34:13] [Render thread/INFO]: Module [kiwi:contributors] initialized
+[13:34:13] [Render thread/INFO]: Module [passablefoliage:core] initialized
+[13:34:13] [Render thread/INFO]: Module [kiwi:block_templates] initialized
+[13:34:13] [Render thread/INFO]: Module [kiwi:block_components] initialized
+[13:34:13] [Render thread/INFO]: Module [kiwi:data] initialized
+[13:34:13] [Render thread/INFO]: 		recipe_serializer: 3
+[13:34:13] [Render thread/INFO]: Module [passablefoliage:enchantment] initialized
+[13:34:13] [Render thread/INFO]: 		enchantment: 1
+[13:34:13] [Render thread/INFO]: Module [kiwi:item_templates] initialized
+[13:34:13] [Render thread/INFO]: [KONKRETE] Successfully initialized!
+[13:34:13] [Render thread/INFO]: [KONKRETE] Server-side libs ready to use!
+[13:34:13] [Render thread/INFO]: Immersive Thunder loaded.
+[13:34:13] [Render thread/INFO]: [LMFT]: Loaded Config File!
+[13:34:13] [Render thread/INFO]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[13:34:13] [Render thread/INFO]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[13:34:13] [Render thread/INFO]: Registering S2C receiver with id magistuarmory:packet_bc_or_ef_installed
+[13:34:14] [Render thread/INFO]: [MELODY] Loading Melody background audio library..
+[13:34:14] [Render thread/INFO]: Definitely not up to no good
+[13:34:14] [Render thread/INFO]: Loaded config moonlight-client.json
+[13:34:14] [Render thread/INFO]: terra_ferax_frequency = 4
+[13:34:14] [Render thread/INFO]: terra_solaris_frequency = 4
+[13:34:14] [Render thread/INFO]: terra_flava_frequency = 4
+[13:34:14] [Render thread/INFO]: terra_laeta_frequency = 4
+[13:34:14] [Render thread/INFO]: has_sugi_forest = true
+[13:34:14] [Render thread/INFO]: has_eroded_river = true
+[13:34:14] [Render thread/INFO]: has_marsh = true
+[13:34:14] [Render thread/INFO]: has_bamboo_wetlands = true
+[13:34:14] [Render thread/INFO]: has_wisteria_forest = true
+[13:34:14] [Render thread/INFO]: has_redwood_forest = true
+[13:34:14] [Render thread/INFO]: has_aspen_forest = true
+[13:34:14] [Render thread/INFO]: has_maple = true
+[13:34:14] [Render thread/INFO]: has_fir = true
+[13:34:14] [Render thread/INFO]: has_cypress_fields = true
+[13:34:14] [Render thread/INFO]: has_lively_dunes = true
+[13:34:14] [Render thread/INFO]: has_drylands = true
+[13:34:14] [Render thread/INFO]: has_white_cliffs = true
+[13:34:14] [Render thread/INFO]: has_tropical_shores = true
+[13:34:14] [Render thread/INFO]: has_xeric_plains = true
+[13:34:14] [Render thread/INFO]: has_larch = true
+[13:34:14] [Render thread/INFO]: has_oak_savanna = true
+[13:34:14] [Render thread/INFO]: has_mahogany = true
+[13:34:14] [Render thread/INFO]: has_arid = true
+[13:34:14] [Render thread/INFO]: has_shrublands = true
+[13:34:14] [Render thread/INFO]: has_steppe = true
+[13:34:14] [Render thread/INFO]: [STDOUT]: Thanks for viewing your messages
+[13:34:15] [Render thread/INFO]: Necronomicon Initialized
+[13:34:15] [Render thread/INFO]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[13:34:15] [Render thread/INFO]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[13:34:15] [Render thread/INFO]: Loading Noisium.
+[13:34:15] [Render thread/INFO]: Constructing common components for overflowingbars:main
+[13:34:15] [Render thread/INFO]: Loading client config for overflowingbars
+[13:34:15] [Thread-19/INFO]: Reloading client config for overflowingbars
+[13:34:15] [Render thread/INFO]: dead people should put things in their grave, I have bills to pay - Blodgharm
+[13:34:15] [Render thread/INFO]: Loaded config for profundis
+[13:34:15] [Render thread/INFO]: Constructing common components for puzzleslib:main
+[13:34:15] [Render thread/INFO]: [Fabric Seasons] Trying to read config file...
+[13:34:15] [Render thread/INFO]: [Fabric Seasons] A config file was found, loading it..
+[13:34:15] [Render thread/INFO]: [Fabric Seasons] Successfully loaded config file.
+[13:34:15] [Render thread/INFO]: Shield API initialized!
+[13:34:15] [Render thread/INFO]: Shut up those pesky GL key errors
+[13:34:15] [Render thread/INFO]: Hello Fabric world!
+[13:34:16] [Render thread/INFO]: [Spawn Animations] Loaded Spawn Animations by Tschipcraft successfully!
+[13:34:16] [Render thread/INFO]: Constructing common components for stoneworks:main
+[13:34:16] [Render thread/INFO]: Loading common config for stoneworks
+[13:34:16] [Render thread/INFO]: [Surveyor] is not a map mod
+[13:34:16] [Render thread/INFO]: Sushi of the day: Futo maki
+[13:34:16] [Render thread/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[13:34:16] [Render thread/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[13:34:16] [Render thread/INFO]: Registered region gardens_of_the_dead:nether to index 1 for type NETHER
+[13:34:16] [Render thread/INFO]: terra_ferax_frequency = 4
+[13:34:16] [Render thread/INFO]: terra_solaris_frequency = 4
+[13:34:16] [Render thread/INFO]: terra_flava_frequency = 4
+[13:34:16] [Render thread/INFO]: terra_laeta_frequency = 4
+[13:34:16] [Render thread/INFO]: has_sugi_forest = true
+[13:34:16] [Render thread/INFO]: has_eroded_river = true
+[13:34:16] [Render thread/INFO]: has_marsh = true
+[13:34:16] [Render thread/INFO]: has_bamboo_wetlands = true
+[13:34:16] [Render thread/INFO]: has_wisteria_forest = true
+[13:34:16] [Render thread/INFO]: has_redwood_forest = true
+[13:34:16] [Render thread/INFO]: has_aspen_forest = true
+[13:34:16] [Render thread/INFO]: has_maple = true
+[13:34:16] [Render thread/INFO]: has_fir = true
+[13:34:16] [Render thread/INFO]: has_cypress_fields = true
+[13:34:16] [Render thread/INFO]: has_lively_dunes = true
+[13:34:16] [Render thread/INFO]: has_drylands = true
+[13:34:16] [Render thread/INFO]: has_white_cliffs = true
+[13:34:16] [Render thread/INFO]: has_tropical_shores = true
+[13:34:16] [Render thread/INFO]: has_xeric_plains = true
+[13:34:16] [Render thread/INFO]: has_larch = true
+[13:34:16] [Render thread/INFO]: has_oak_savanna = true
+[13:34:16] [Render thread/INFO]: has_mahogany = true
+[13:34:16] [Render thread/INFO]: has_arid = true
+[13:34:16] [Render thread/INFO]: has_shrublands = true
+[13:34:16] [Render thread/INFO]: has_steppe = true
+[13:34:16] [Render thread/INFO]: [STDOUT]: Thanks for viewing your messages
+[13:34:16] [Render thread/INFO]: Registered region natures_spirit:terra_ferax to index 1 for type OVERWORLD
+[13:34:16] [Render thread/INFO]: Registered region natures_spirit:terra_solaris to index 2 for type OVERWORLD
+[13:34:16] [Render thread/INFO]: Registered region natures_spirit:terra_flava to index 3 for type OVERWORLD
+[13:34:16] [Render thread/INFO]: Registered region natures_spirit:terra_mater to index 4 for type OVERWORLD
+[13:34:16] [Render thread/INFO]: Registered region natures_spirit:terra_laeta to index 5 for type OVERWORLD
+[13:34:16] [Render thread/INFO]: Registered region spider_caves:region to index 6 for type OVERWORLD
+[13:34:16] [Render thread/INFO]: Registered region underground_jungle:region to index 7 for type OVERWORLD
+[13:34:16] [Render thread/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 4 values
+[13:34:16] [Render thread/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 4 values
+[13:34:17] [Render thread/INFO]: Registering S2C receiver with id architectury:spawn_entity_packet
+[13:34:17] [Thread-20/INFO]: [bclib] Received Version Info for minecraft=1.20.1, loader=fabric
+[13:34:17] [Thread-20/INFO]: [bclib]  - bclib:3.0.14
+[13:34:17] [Thread-20/INFO]: [bclib]  - betterend:4.0.11
+[13:34:17] [Thread-20/INFO]: [bclib]  - betternether:9.0.10
+[13:34:17] [Render thread/INFO]: registering Server->Client packages
+[13:34:17] [Render thread/INFO]: Initializing 'Better Statistics Screen' as 'BetterStatsClient'.
+[13:34:18] [Render thread/INFO]: Registering S2C receiver with id brewery:alcohol_sync
+[13:34:18] [Render thread/INFO]: Registering S2C receiver with id brewery:drink_alcohol
+[13:34:18] [Render thread/INFO]: Registering S2C receiver with id brewery:attach_rope
+[13:34:18] [Render thread/INFO]: Registering S2C receiver with id brewery:detach_rope
+[13:34:18] [Render thread/INFO]: Registering S2C receiver with id brewery:sync_rope
+[13:34:18] [Render thread/INFO]: Registering S2C receiver with id brewery:change_hanging_rope
+[13:34:18] [Render thread/INFO]: [ClientLoader] 4 classes to load for class svenhjol.charmony.client.ClientLoader
+[13:34:18] [Render thread/INFO]: [ClientLoader] Enabled ColoredGlintsClient
+[13:34:18] [Render thread/INFO]: [ClientLoader] Enabled CustomWoodClient
+[13:34:18] [Render thread/INFO]: [ClientLoader] Enabled RecipesClient
+[13:34:18] [Render thread/INFO]: [ClientLoader] Enabled VariantWoodClient
+[13:34:18] [Render thread/INFO]: [ClientLoader] Running ColoredGlintsClient
+[13:34:18] [Render thread/INFO]: [ClientLoader] Running RecipesClient
+[13:34:18] [Render thread/INFO]: [ClientLoader] Running VariantWoodClient
+[13:34:18] [Render thread/INFO]: [ClientLoader] Running CustomWoodClient
+[13:34:18] [Render thread/INFO]: [ClientLoader] 3 classes to load for class svenhjol.charmony.client.ClientLoader
+[13:34:18] [Render thread/INFO]: [ClientLoader] Enabled AmbienceSettings
+[13:34:18] [Render thread/INFO]: [ClientLoader] Enabled BiomeAmbience
+[13:34:18] [Render thread/INFO]: [ClientLoader] Enabled WorldAmbience
+[13:34:18] [Render thread/INFO]: [AmbienceSettings] Using sound channel/source: ambient
+[13:34:18] [Render thread/INFO]: [ClientLoader] Running AmbienceSettings
+[13:34:18] [Render thread/INFO]: [ClientLoader] Running BiomeAmbience
+[13:34:18] [Render thread/INFO]: [ClientLoader] Running WorldAmbience
+[13:34:18] [Render thread/INFO]: [ClientInitializer] Processing 0 deferred client packet(s)
+[13:34:18] [Render thread/INFO]: Initializing Renderers.
+[13:34:18] [Render thread/INFO]: Loading Entity Model Features, now available for Terraria!
+[13:34:18] [Render thread/INFO]: 6 new ETF Random Properties registered by entity_model_features.
+[13:34:18] [Render thread/INFO]: Loading Entity Texture Features, now available for Terraria!
+[13:34:18] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[13:34:18] [Render thread/INFO]: Initializing client...
+[13:34:19] [Worker-Main-1/INFO]: Checking mod updates...
+[13:34:19] [Render thread/INFO]: Initialized block sets in 30ms
+[13:34:19] [Render thread/INFO]: Loaded config smarterfarmers-common.json
+[13:34:19] [Render thread/INFO]: Initialized color sets in 80ms
+[13:34:20] [Render thread/INFO]: Trying to read config file...
+[13:34:20] [Render thread/INFO]: A config file was found, loading it..
+[13:34:20] [Render thread/INFO]: Successfully loaded config file.
+[13:34:20] [Render thread/INFO]: Constructing client components for overflowingbars:main
+[13:34:20] [Render thread/INFO]: Constructing client components for puzzleslib:main
+[13:34:20] [Render thread/INFO]: [STDOUT]: Attempting to invoke putenv("ALSOFT_CONF=cache\rsls-alsoft-10377050238228843210.conf")
+[13:34:21] [Render thread/INFO]: Loading Config...
+[13:34:21] [Render thread/INFO]: [Surveyor Client] is not a map mod either
+[13:34:21] [Render thread/INFO]: Initializing 'TCD Commons API' 3.12.2+fabric-1.20.1 as 'TCDCommonsClient'.
+[13:34:21] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[13:34:21] [Render thread/INFO]: Registering S2C receiver with id vinery:shader
+[13:34:21] [Render thread/INFO]: Deserializing YACLConfig from 'C:\Users\lelip\AppData\Roaming\com.modrinth.theseus\profiles\custom smp Aged based\config\yacl.json5'
+[13:34:21] [Render thread/INFO]: Loaded default options for extra-folder
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'balm-fabric@7.3.6', (-> 7.3.7+fabric-1.20.1)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'smarterfarmers@1.20-1.8.2', (-> 1.20-2.0.1)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'immersiveui@0.1.1', (-> 0.2.1)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'kiwi@11.8.19+fabric', (-> 11.8.24+fabric)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'emi@1.1.10+1.20.1+fabric', (-> 1.1.12+1.20.1+fabric)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'moonlight@1.20-2.12.10', (-> fabric_1.20-2.12.14)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'combatroll@1.3.2+1.20.1', (-> 1.3.3+1.20.1-fabric)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'exposure@1.7.5', (-> 1.7.6)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'natures_spirit@1.6.0-1.20.1', (-> 1.6.2-1.20.1)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'modernfix@5.19.0+mc1.20.1', (-> 5.19.1+mc1.20.1)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'tcdcommons@3.12.2+fabric-1.20.1', (-> 3.12.3+fabric-1.20.1)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'immediatelyfast@1.2.18+1.20.4', (-> 1.2.20+1.20.4-fabric)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'betterstats@3.12.4+fabric-1.20.1', (-> 3.12.6+fabric-1.20.1)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'vinery@1.4.27', (-> 1.4.28)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'villagesandpillages@1.0.0', (-> fabric-mc1.20.1-1.0.1)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'l_g_c@0.7', (-> 1.0+mod)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'mru@0.4.4+1.20.1', (-> 1.0.1+1.20.1-fabric)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'bettercombat@1.8.5+1.20.1', (-> 1.8.6+1.20.1-fabric)
+[13:34:21] [Worker-Main-1/INFO]: Update available for 'noisium@2.0.3+mc1.20-1.20.1', (-> 2.2.2+mc1.20-1.20.1)
+[13:34:21] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 SNAPSHOT
+[13:34:22] [Render thread/INFO]: Initializing ImmediatelyFast 1.2.18+1.20.4 on Intel(R) Iris(R) Xe Graphics (Intel) with OpenGL 3.2.0 - Build 31.0.101.3222
+[13:34:22] [Render thread/WARN]: Force disabling fast buffer upload optimization due to unsupported GPU
+[13:34:22] [Render thread/INFO]: Found Iris/Oculus 1.7.2+mc1.20.1. Enabling compatibility.
+[13:34:22] [Render thread/INFO]: Debug functionality is disabled.
+[13:34:22] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[13:34:22] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[13:34:22] [Render thread/INFO]: ARRP register - before vanilla
+[13:34:22] [Render thread/INFO]: ARRP register - after vanilla
+[13:34:22] [Render thread/INFO]: ARRP register - before user
+[13:34:23] [Finalizer/WARN]: One or more BufferBuilders have been leaked, ModernFix will attempt to correct this.
+[13:34:23] [Render thread/INFO]: Hardware information:
+[13:34:23] [Render thread/INFO]: CPU: 16x 12th Gen Intel(R) Core(TM) i7-1260P
+[13:34:23] [Render thread/INFO]: GPU: Intel(R) Iris(R) Xe Graphics (Supports OpenGL 3.2.0 - Build 31.0.101.3222)
+[13:34:23] [Render thread/INFO]: OS: Windows 11 (10.0)
+[13:34:23] [Render thread/INFO]: [FANCYMENU] Registering resource reload listener..
+[13:34:24] [Render thread/INFO]: [FANCYMENU] Initializing screen customization engine! Addons should NOT REGISTER TO REGISTRIES anymore now!
+[13:34:24] [Render thread/INFO]: [FANCYMENU] Minecraft resource reload: STARTING
+[13:34:24] [Render thread/INFO]: Invalidating pack caches
+[13:34:24] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric (additionz, advanced_runtime_resource_pack, adventurez, agedaddition, amarite, amecsapi, another_furniture, antique-atlas, appleskin, archers, argonauts, autotag, autotag-convention, azurelibarmor, backslot, backslotaddon, bakery, balm-fabric, bbb, bclib, betterarcheology, bettercombat, betterdeserttemples, betterend, betterendisland, betterfortresses, betterjungletemples, betternether, betteroceanmonuments, betterstats, birds-boids, boids, borderlessmining, brewery, cadmus, candlelight, capsaicin, cardinal-components-base, cardinal-components-block, cardinal-components-entity, cardinal-components-item, chalk, chalk-colorful-addon, charmonium, charmony, chipped, cloth-config, combatroll, conditional-mixin, config_toolkit, connectiblechains, crawl, creeperoverhaul, crop_growth_modifier, defaultoptions, dehydration, doapi, dragonsteel, dungeonnowloading, dungeonz, earlystage, elemental_metals, emi, emi_enchanting, emi_letsdo_compat, emi_loot, emi_ores, emiffect, emitrades, endermanoverhaul, endrem, entity_model_features, entity_texture_features, entityculling, environmentz, exposure, extended_drawers, extendeddrawersaddon, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-tables-v1, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-networking-v0, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, fallenwizardsmod, fancymenu, fbp, fleshz, forgeconfigapiport, formations, fpapmod, gardens_of_the_dead, geckolib, graphlib, grassoverhaul, herbalbrews, herdspanic, immediatelyfast, immersive_aircraft, immersive_armors, immersivesnow, immersiveui, indium, inmis, inmisaddon, interactic, iris, jewelry, jobsaddon, jumpoverfences, kiwi, kmodlib-overlay, konkrete, l_g_c, lavender, lavender-md, leahs-immersive-thunder, letmedespawn, levelz, libnetworkstack, libz, lithium, lmft, loadmyresources, logbegone, lootr, magistuarmory, meadow, medievalweapons, mes, mm, mns, modernfix, modmenu, moonlight, more_spell_attributes, moreculling, morerunes, morewizardsmod, mr_dungeons_andtaverns, mr_true_ending, nameplate, naturalist, natures_spirit, necronomicon, neruina, nethervinery, niftycarts, noindium, noisium, nutritionz, omega-config, overflowingbars, owo, paladins, partyaddon, passablefoliage, pockets, polymorph, profundis, prometheus, ranged_weapon_api, reach-entity-attributes, reciperemover, revive, rogues, rpgdifficulty, rsls, runes, satin, scholar, seamless_loading_screen, seasonhud, seasons, shield_api, shut_up_gl_error, simplemod, smallships, smitherz, sodium, spawnanimations, spell_engine, spell_power, spider_caves, spoiledz, stoneworks, structure_pool_api, superbsteeds, surveyor, sushi_bar, tawct, tcdcommons, terrablender, terraform-wood-api-v1, tiered, tooltipfix, translucencyfix, travelerz, treechop, trinkets, underground_jungle, villagerfix, vinery, voidz, welcomescreen, wizards, yet_another_config_lib_v3), extendeddrawersaddon:addon, seasons:seasonal_lush_caves, Moonlight Mods Dynamic Assets, aged_dirt_replace_to_gray, aged_guide_book, aged_welcome_screen, tales_of_aged, loadmyresources.hiddenpack
+[13:34:24] [Render thread/INFO]: closing rrp smitherz:gems
+[13:34:24] [Render thread/INFO]: closing rrp medievalweapons:weapons
+[13:34:24] [Render thread/INFO]: ARRP register - before vanilla
+[13:34:24] [Render thread/INFO]: ARRP register - between vanilla and mods
+[13:34:24] [Render thread/INFO]: ARRP register - between mods and user
+[13:34:24] [Render thread/INFO]: ARRP register - after vanilla
+[13:34:24] [Render thread/ERROR]: Failed to get filter section from pack loadmyresources.hiddenpack
+[13:34:24] [Render thread/INFO]: Generated runtime CLIENT_RESOURCES for pack Moonlight Mods Dynamic Assets (moonlight) in: 5 ms
+[13:34:25] [Worker-ResourceReload-13/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[13:34:26] [Worker-ResourceReload-12/INFO]: [Antique Atlas] Metadata not present for antique_atlas:textures/atlas/tile/structure/village/taiga/tall_house.png - using defaults.
+[13:34:26] [Render thread/INFO]: [FANCYMENU] Preloading animations! This could cause the loading screen to freeze for a while..
+[13:34:26] [Render thread/INFO]: [FANCYMENU] Finished preloading animations!
+[13:34:26] [Render thread/INFO]: [FANCYMENU] Starting late client initialization phase..
+[13:34:26] [Render thread/INFO]: [FANCYMENU] Custom window icon successfully updated!
+[13:34:26] [Render thread/INFO]: [KONKRETE] Client-side libs ready to use!
+[13:34:26] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: title_screen
+[13:34:26] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:26] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:26] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:26] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:26] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:26] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:26] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:27] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[13:34:27] [Render thread/INFO]: Cached all modded block culling states
+[13:34:28] [Render thread/INFO]: Loaded default options for keymappings
+[13:34:28] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:28] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:28] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:28] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:28] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:28] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:28] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:28] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:28] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:28] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:28] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:28] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:28] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:28] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:34:40] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'endrem:blockstates/ancient_portal_frame.json' missing model for variant: 'endrem:ancient_portal_frame#eye=end_crystal_eye,facing=south'
+[13:34:40] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'endrem:blockstates/ancient_portal_frame.json' missing model for variant: 'endrem:ancient_portal_frame#eye=end_crystal_eye,facing=north'
+[13:34:40] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'endrem:blockstates/ancient_portal_frame.json' missing model for variant: 'endrem:ancient_portal_frame#eye=end_crystal_eye,facing=east'
+[13:34:40] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'endrem:blockstates/ancient_portal_frame.json' missing model for variant: 'endrem:ancient_portal_frame#eye=end_crystal_eye,facing=west'
+[13:34:50] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Casque (2- Jabra Evolve 75 SE)
+[13:34:50] [Render thread/INFO]: Sound engine started
+[13:34:50] [Render thread/INFO]: [FANCYMENU] Reloading AudioResourceHandler after Minecraft SoundEngine reload..
+[13:34:50] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[13:34:51] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/signs.png-atlas
+[13:34:51] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:34:51] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:34:51] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[13:34:52] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/chest.png-atlas
+[13:34:52] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[13:34:52] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13:34:52] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:35:06] [Render thread/WARN]: [EMF]: model attempted creation more than 500 times {magistuarmory:heatershield#main]. EMF is now ignoring this model.
+[13:35:06] [Render thread/WARN]: [EMF]: model attempted creation more than 500 times {magistuarmory:target#main]. EMF is now ignoring this model.
+[13:35:06] [Render thread/WARN]: [EMF]: model attempted creation more than 500 times {magistuarmory:buckler#main]. EMF is now ignoring this model.
+[13:35:06] [Render thread/WARN]: [EMF]: model attempted creation more than 500 times {magistuarmory:rondache#main]. EMF is now ignoring this model.
+[13:35:06] [Render thread/WARN]: [EMF]: model attempted creation more than 500 times {magistuarmory:tartsche#main]. EMF is now ignoring this model.
+[13:35:06] [Render thread/WARN]: [EMF]: model attempted creation more than 500 times {magistuarmory:ellipticalshield#main]. EMF is now ignoring this model.
+[13:35:06] [Render thread/WARN]: [EMF]: model attempted creation more than 500 times {magistuarmory:roundshield#main]. EMF is now ignoring this model.
+[13:35:06] [Render thread/WARN]: [EMF]: model attempted creation more than 500 times {magistuarmory:pavese#main]. EMF is now ignoring this model.
+[13:35:06] [Render thread/WARN]: [EMF]: model attempted creation more than 500 times {magistuarmory:kiteshield#main]. EMF is now ignoring this model.
+[13:35:07] [Render thread/WARN]: [EMF]: model attempted creation more than 500 times {magistuarmory:crusader#armor]. EMF is now ignoring this model.
+[13:35:11] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[13:35:12] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:35:12] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:35:12] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:35:12] [Render thread/INFO]: [FANCYMENU] Reloading resources..
+[13:35:12] [Render thread/INFO]: [FANCYMENU] Pre-loading resources..
+[13:35:13] [Render thread/INFO]: Created: 256x256x0 moonlight:textures/atlas/map_markers.png-atlas
+[13:35:13] [Render thread/INFO]: [Antique Atlas] Reloading Tile Textures...
+[13:35:13] [Render thread/INFO]: [Antique Atlas] Reloading Biome Tile Providers...
+[13:35:13] [Render thread/INFO]: [Antique Atlas] Reloading Marker Textures...
+[13:35:13] [Render thread/INFO]: Loading exposure filters:
+[13:35:13] [Render thread/INFO]: [Fabric Seasons] Successfully loaded 3 custom grass colors.
+[13:35:13] [Render thread/INFO]: [Fabric Seasons] Successfully loaded 3 custom foliage colors.
+[13:35:13] [Render thread/INFO]: [Antique Atlas] Reloading Structure Tile / Marker Providers...
+[13:35:13] [Render thread/INFO]: reloading ETF data.
+[13:35:13] [Render thread/INFO]: emissive suffixes loaded: {_e}.
+[13:35:13] [Render thread/INFO]: emissive suffixes loaded: {_e}.
+[13:35:13] [Render thread/INFO]: [FANCYMENU] Updating animation sizes..
+[13:35:13] [Render thread/INFO]: [FANCYMENU] Minecraft resource reload: FINISHED
+[13:35:13] [Render thread/INFO]: Canceling Microsoft telemetry
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:13] [Render thread/INFO]: This line is printed by an example mod mixin!
+[13:35:15] [Render thread/WARN]: Game took 114.303 seconds to start
+[13:35:38] [Render thread/INFO]: Stopping!
+[13:35:38] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
+[13:35:38] [Render thread/INFO]: [EMI] Disconnecting from server, EMI data cleared
+[13:35:38] [Thread-31/INFO]: [EMI] Clearing data
+[13:35:38] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: progress_screen
+[13:35:38] [Render thread/INFO]: emissive suffixes loaded: {_e}.
+[13:35:38] [Render thread/INFO]: closing rrp smitherz:gems
+[13:35:38] [Render thread/INFO]: closing rrp medievalweapons:weapons

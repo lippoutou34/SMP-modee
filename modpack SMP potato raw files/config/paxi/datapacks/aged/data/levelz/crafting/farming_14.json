@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 14,
+    "item": [
+        "minecraft:iron_axe",
+        "minecraft:iron_hoe",
+        "minecraft:shears",
+        "minecraft:bucket",
+        "meadow:cheese_form"
+    ]
+}

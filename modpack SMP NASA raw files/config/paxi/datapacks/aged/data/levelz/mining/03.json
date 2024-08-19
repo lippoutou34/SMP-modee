@@ -1,0 +1,14 @@
+{
+    "replace": true,
+    "level": 3,
+    "block": [
+        "minecraft:bricks",
+        "minecraft:brick_stairs",
+        "minecraft:brick_slab",
+        "bbb:brick_layer",
+        "minecraft:brick_wall",
+        "bakery:kitchen_sink",
+        "bakery:brick_stove",
+        "bakery:brick_counter"
+    ]
+}

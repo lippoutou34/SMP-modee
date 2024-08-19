@@ -1,0 +1,23 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:additionz:teleport_potion",
+    "item:morewizardsmod:lightning_wizard_armor_t2_chest{Damage:0}",
+    "item:fallenwizardsmod:dark_frost_wizard_armor_t2_chest{Damage:0}",
+    "item:fallenwizardsmod:dark_frost_wizard_armor_t2_legs{Damage:0}",
+    "item:fallenwizardsmod:dark_frost_wizard_armor_t2_feet{Damage:0}",
+    "item:fallenwizardsmod:dark_fire_wizard_armor_t1_legs{Damage:0}",
+    "item:fpapmod:starforged_unholy_staff{Damage:0}",
+    "item:fpapmod:netherite_unholy_staff{Damage:0}",
+    "item:fpapmod:unholy_staff{Damage:0}",
+    "item:fallenwizardsmod:netherite_dark_fire_staff{Damage:0}"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
